@@ -10,8 +10,6 @@ class Home extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-    home: Scaffold(
         appBar: AppBar(
           leading: Icon(Icons.menu), title: Text('Font Style'),
         ),
@@ -27,7 +25,6 @@ class Home extends StatelessWidget {
               decoration: TextDecoration.underline, ), ),
         ),
         ),
-    ),
     );
   }
 }
