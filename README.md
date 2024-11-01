@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # pertemuan5
+=======
+# pertemuan4
+>>>>>>> 5026ee5 (first commit)
 
 A new Flutter project.
 
