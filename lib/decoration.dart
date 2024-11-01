@@ -16,9 +16,9 @@ class Home extends StatelessWidget {
       ),
       body: Center(
         child: Container(
-          decoration: const ShapeDecoration(
-              shape: StadiumBorder(
-                  side: BorderSide(
+          decoration: const BoxDecoration(
+              border: Border(
+                  top: BorderSide(
                     color: Colors.black,
                     width: 3,
                   )

@@ -38,7 +38,7 @@ class _MyWidgetState extends State<Home> {
     return Stack(
       children: <Widget>[
         Positioned(
-          left: _left,
+          right: _left,
           top: _top,
           child: GestureDetector(
             //Tap
